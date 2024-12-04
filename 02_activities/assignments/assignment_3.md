@@ -7,17 +7,27 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-        Your answer...
+        1. U.S. Age Pyramid (Pew Research Center)
+        Accessibility: The animated GIF is visually engaging but may not be accessible to users with visual impairments.
+        Reproducibility: The visualization is not easily reproducible as it is an animated GIF.
+        Equity: The visualization focuses solely on the U.S. population.
+        
+        Improvements:
+        - Interactive Features: Incorporate an interactive slider with keyboard navigation support.
+        - Text Annotations: Include text annotations that can be read by screen readers.
+        - Provide Data Source: Include a link to the raw data used for the visualization.
+        - Language Options: Provide translations in multiple languages to reach a broader audience.
 
+        2. "The True Size Of…" Interactive Tool
+        Accessibility: The tool is interactive and engaging but may not be fully accessible to all users.
+        Reproducibility: The tool is interactive and web-based, making it difficult to reproduce offline.
+        Equity: The tool is highly educational but may not be accessible to all due to internet requirements.
 
-
-        ```
-    - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
-        ```
-        Your answer...
-
-
-
+        Improvements:
+        - Alternative Descriptions: Provide text descriptions or annotations for visually impaired users.
+        -Downloadable Version: Offer an offline version for educational settings without consistent internet access.
+        - Population Data: Integrate overlays for population or population density to add more depth to the comparisons.
+        - Language Options: Provide translations in multiple languages to reach a broader audience.
         ```
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
@@ -46,9 +56,9 @@
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `assignment-3`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [x] Create a branch called `assignment-3`.
+- [x] Ensure that the repository is public.
+- [x] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [x] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack at `#cohort-3-help`. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
