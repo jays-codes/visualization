@@ -10,28 +10,32 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+    1.) U.S. Age Pyramid (Pew Research Center)
+    An animated visualization showing the transformation of the U.S. population age structure over time. https://visme.co/blog/data-visualization-examples/#us-age-pyramid-by-pew-research-center
+
+    This animated GIF visualizes changes in the U.S. population structure over time, transitioning from a pyramid shape to a rectangular form projected for 2060. 
+    
+    It effectively communicates demographic shifts in a visually compact manner.
+
+    Improvements suggestion:
+    - Incorporate an interactive slider allowing users to pause or focus on specific decades.
+    - Include text annotations highlighting key demographic shifts, such as the Baby Boomer generation.
+    - Offer comparative visuals for other countries to add a global perspective.
 
 
+    2.) "The True Size Of…", an interactive tool that compares the actual sizes of countries on a world map. Due to distortions in standard map projections, land masses like Greenland often appear much larger than they are. This tool allows users to drag and drop countries to compare their true sizes on a globe-relative scale. https://www.thetruesize.com/#?borders=1~!MTU5MTgzNTM.NDI0MDM5OA*Mjk4NDY2NTA(NzY0NTQ3OA~!CONTIGUOUS_US*MTAwMjQwNzU.MjUwMjM1MTc(MTc1)MA~!IN*NTI2NDA1MQ.Nzg2MzQyMQ)MQ~!CN*OTkyMTY5Nw.NzMxNDcwNQ(MjI1)Mg
 
+    Strengths are as follows:
+    - Engagement: Users can interact with the map, making the learning process active and enjoyable.
+    - Educational Value: It challenges misconceptions caused by common map projections, like Mercator, making it highly informative.
+    - Simplicity: The interface is clean and easy to use.
 
-
-
-
+    Improvements suggestion:
+    - Add Historical Context: Include a feature to overlay historical borders to show how countries' sizes and shapes have evolved.
+    - Population or Density Data: Integrate overlays for additional data, such as population or population density.
+    - Accessibility Enhancements: Provide alternative descriptions or annotations for visually impaired users.
+    - Offline Access: Offer a downloadable version for educational settings without consistent internet access.
       ```
-    - How could this data visualization have been improved?  
-      ```
-      Your answer...
-
-
-
-
-
-
-      
-      ```
-- Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
-300 words for your good example and 500 for your bad example)
 
 ### Why am I doing this assignment?:
 
