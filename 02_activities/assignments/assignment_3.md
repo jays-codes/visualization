@@ -7,17 +7,27 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-        Your answer...
+        1. U.S. Age Pyramid (Pew Research Center)
+        Accessibility: The animated GIF is visually engaging but may not be accessible to users with visual impairments.
+        Reproducibility: The visualization is not easily reproducible as it is an animated GIF.
+        Equity: The visualization focuses solely on the U.S. population.
+        
+        Improvements:
+        - Interactive Features: Incorporate an interactive slider with keyboard navigation support.
+        - Text Annotations: Include text annotations that can be read by screen readers.
+        - Provide Data Source: Include a link to the raw data used for the visualization.
+        - Language Options: Provide translations in multiple languages to reach a broader audience.
 
+        2. "The True Size Of…" Interactive Tool
+        Accessibility: The tool is interactive and engaging but may not be fully accessible to all users.
+        Reproducibility: The tool is interactive and web-based, making it difficult to reproduce offline.
+        Equity: The tool is highly educational but may not be accessible to all due to internet requirements.
 
-
-        ```
-    - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
-        ```
-        Your answer...
-
-
-
+        Improvements:
+        - Alternative Descriptions: Provide text descriptions or annotations for visually impaired users.
+        -Downloadable Version: Offer an offline version for educational settings without consistent internet access.
+        - Population Data: Integrate overlays for population or population density to add more depth to the comparisons.
+        - Language Options: Provide translations in multiple languages to reach a broader audience.
         ```
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
